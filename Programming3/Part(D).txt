@@ -1,0 +1,15 @@
+Part(D): # Explain the differences in minimum round trip time to each of these servers in parts A, B, and C. 
+
+While testing several IPs through this program, I was able to confirm that the RTT with the server that was close to me was the smallest.
+
+RTT_min:
+(1)Localhost: 0.083ms
+(2)cs.stonybrook.edu:5.538ms
+(3)Canada web server:7.015ms
+(4)UK web server:76.616ms
+(5)Russia web server:154.624ms
+(6)Japan web server:173.544ms
+
+The minimum RTTs above are from the attached screenshot.
+
+
