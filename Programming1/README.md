@@ -2,8 +2,8 @@ Develop a small web proxy server which is able to cache web pages using python. 
 simple proxy server which only understands simple GET-requests, but is able to handle all kinds
 of objects - not just HTML pages, but also images.
 
-Run webserver.py:
-
+**Run webserver.py:
+**
 1. Start run the code. 2.Open a browser type server name "localhost", port number "8888", and corresponding name of HTML file in folder in this case "HelloWorld.html". For e.g. localhost:8888/HelloWorld.html
 
 Run proxyserver.py:
